@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Sérgio Toledo.</h1>
 <h3 align="center">Full-Stack Software Engineer passionate about programming and web development, constantly learning and searching for new knowledge and technologies.</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 <img src="https://komarev.com/ghpvc/?username=seralto&label=Profile%20views&color=0e75b6&style=flat" alt="seralto" />
 
 <h3 align="left">Connect with me:</h3>
@@ -20,5 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seralto&show_icons=true&locale=en&layout=compact" alt="seralto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seralto&show_icons=true&locale=en" alt="seralto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seralto&" alt="seralto" /></p>
